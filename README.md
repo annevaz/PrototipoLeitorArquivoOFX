@@ -1,0 +1,1 @@
+## Protótipo - Leitor de arquivo OFX
